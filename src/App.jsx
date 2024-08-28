@@ -11,10 +11,10 @@ const App = () => {
       <Hero />
       <About />
       <Services />
-
-      
     </div>
   )
 }
+
+      
 
 export default App
